@@ -11,6 +11,7 @@ JavaScript推出后在浏览器上大获成功，微软公司在不久后就为I
 
 <hr>
 # 2. JavaScript诞生记
+<br>
 * [JavaScript诞生记博客](http://www.ruanyifeng.com/blog/2011/06/10_design_defects_in_javascript.html)
 ### 2.1 网景公司的讨论
 1994年，网景公司（Netscape）发布了Navigator浏览器0.9版。这是历史上第一个比较成熟的网络浏览器，轰动一时。但是，这个版本的浏览器只能用来浏览，不具备与访问者互动的能力。**网景公司急需一种网页脚本语言，使得浏览器可以与网页互动。**
@@ -38,6 +39,7 @@ Javascript语言实际上是两种语言风格的混合产物----（简化的）
 
 <hr>
 # 3. JavaScript的10个设计缺陷
+<br>
 * [JavaScript的10个设计缺陷博客](http://www.ruanyifeng.com/blog/2011/06/10_design_defects_in_javascript.html)
 ### 3.1 为什么JavaScript有设计缺陷
 * 设计阶段过于仓促
