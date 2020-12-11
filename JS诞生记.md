@@ -8,6 +8,7 @@
 JavaScript推出后在浏览器上大获成功，微软公司在不久后就为Internet Explorer 3浏览器推出了JScript，以与处于市场领导地位的网景产品同台竞争。JScript也是一种JavaScript实现，这两个JavaScript语言版本在浏览器端共存意味着语言标准化的缺失，发展初期，JavaScript的标准并未确定，同期有网景的JavaScript，微软的JScript双峰并峙。除此之外，微软也在网页技术上加入了不少专属对象，使不少网页使用非微软平台及浏览器无法正常显示，导致在浏览器大战期间网页设计者通常会把“用Netscape可达到最佳效果”或“用IE可达到最佳效果”的标志放在主页。
 ## 1.3 标准化
 1996年11月，网景正式向ECMA（欧洲计算机制造商协会）提交语言标准。1997年6月，ECMA以JavaScript语言为基础制定了ECMAScript标准规范ECMA-262。JavaScript成为了ECMAScript最著名的实现之一。
+<hr>
 
 # 2. JavaScript诞生记
 * [JavaScript诞生记博客](http://www.ruanyifeng.com/blog/2011/06/10_design_defects_in_javascript.html)
@@ -34,10 +35,9 @@ Javascript语言实际上是两种语言风格的混合产物----（简化的）
 * 借鉴Self语言，使用基于原型（prototype）的继承机制。
 ## 2.3 Brendan Eich的评价
 "与其说我爱Javascript，不如说我恨它。它是C语言和Self语言一夜情的产物。十八世纪英国文学家约翰逊博士说得好：'它的优秀之处并非原创，它的原创之处并不优秀。'（the part that is good is not original, and the part that is original is not good.）"
-
+<hr>
 
 # 3. JavaScript的10个设计缺陷
-<br>
 * [JavaScript的10个设计缺陷博客](http://www.ruanyifeng.com/blog/2011/06/10_design_defects_in_javascript.html)
 ## 3.1 为什么JavaScript有设计缺陷
 * 设计阶段过于仓促
